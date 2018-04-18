@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
+        //test
 
         acelVal = SensorManager.GRAVITY_EARTH;
         acelLast = SensorManager.GRAVITY_EARTH;
